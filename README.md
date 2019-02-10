@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/gargemilika/naive-credit.svg?branch=master)](https://travis-ci.org/gargemilika/naive-credit)
