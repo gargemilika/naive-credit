@@ -26,4 +26,3 @@ def is_creditable(age, salary):
 
     return True
 
-
